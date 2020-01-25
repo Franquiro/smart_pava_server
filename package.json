@@ -1,0 +1,25 @@
+{
+  "name": "smart_pava_server",
+  "version": "1.0.0",
+  "description": "Web Server para Smart_Pava",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franquiro/smart_pava_server.git"
+  },
+  "author": "Francisco Quiroga y Medus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franquiro/smart_pava_server/issues"
+  },
+  "homepage": "https://github.com/Franquiro/smart_pava_server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
